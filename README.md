@@ -57,7 +57,7 @@ Engenheiro de Software focado em criar **experiências digitais de alto impacto*
   
   <br>
   
-  <img width="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Henry-Dev&theme=tokyonight&hide_border=false" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Henry-Dev&theme=tokyonight&hide_border=false" />
 </div>
 
 ---
