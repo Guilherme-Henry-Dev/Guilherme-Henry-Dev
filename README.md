@@ -15,6 +15,11 @@ Desenvolvedor focado em criar interfaces de alto impacto e sistemas escaláveis.
 
 ---
 
+## 🎓 Educação
+
+- **Bacharelado em Engenharia de Software** – [Nome da Instituição] (Previsão de Conclusão: 202X)
+  - Foco em arquitetura de sistemas, qualidade de código e metodologias ágeis.
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Frontend & Backend
