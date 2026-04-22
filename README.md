@@ -1,10 +1,31 @@
 ## Bem-vindo(a) ao perfil do Guilherme Henry | Desenvolvedor Front-End
-
- <div>
-   <a href="https://github.com/Guilherme-Henry-Dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henry-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Henry-Dev&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+ <table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henry-Dev&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Henry-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Henry-Dev&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+ 
     
 <div style="display: flex"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
