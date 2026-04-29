@@ -62,7 +62,7 @@ Engenheiro de Software focado em criar **experiências digitais de alto impacto*
   <br>
 
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohjs-0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-Henry-Dev&theme=tokyonight&hide_border=false"/>
   </p>
 </div>
 
